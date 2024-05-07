@@ -34,6 +34,7 @@
   },
   "dependencies": {
     "@yr/monotone-cubic-spline": "^1.0.3",
+    "apexcharts": "3.49.0",
     "svg.draggable.js": "^2.2.2",
     "svg.easing.js": "^2.0.0",
     "svg.filter.js": "^2.0.2",
