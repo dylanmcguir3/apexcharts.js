@@ -535,7 +535,8 @@
 }
 .apexcharts-datalabel,.apexcharts-datalabel-label,.apexcharts-datalabel-value,.apexcharts-datalabels,.apexcharts-pie-label {
   cursor: default;
-  pointer-events: none
+  pointer-events: none;
+  display: hidden;
 }
 
 .apexcharts-pie-label-delay {
